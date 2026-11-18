@@ -12,3 +12,4 @@
 2. origin 연결하기
 3. push/pull
 4. 협업하기
+<img width="340" height="45" alt="스크린샷 2026-11-18 094704" src="https://github.com/user-attachments/assets/294ae29f-d814-4108-a322-79c1b1376734" />
